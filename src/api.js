@@ -26,5 +26,4 @@ client.onAutoRefreshError = function logout(error) {
 };
 
 client.startInterval();
-
 export default client;
